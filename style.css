@@ -1,0 +1,22 @@
+
+
+body{
+    background-image: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+}
+*{
+    text-align: center;
+}
+
+.accounts{
+    display: flex;
+    margin-left:  500px;
+}
+
+.github{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+ 
+
